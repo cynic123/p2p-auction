@@ -1,0 +1,11 @@
+
+hyperbee
+
+
+(auction-a56d0fb59cf3fe59fff48c354d104704—{"auctionId":"a56d0fb59cf3fe59fff48c354d104704","item":"car","bids":[],"status":"open","creator":"e4ec726248d4bbae5686c2af0e94f1c3ab804b447c757ce71df4c4c1a8707e4f","openingPrice":45,"vectorClock":{"e4ec726248d4bbae5686c2af0e94f1c3ab804b447c757ce71df4c4c1a8707e4f":1724271829205}}
+
+
+auction-undefinedÈ{"seq":1,"key":"auction-a56d0fb59cf3fe59fff48c354d104704","value":{"auctionId":"a56d0fb59cf3fe59fff48c354d104704","item":"car","bids":[{"bidder":"5cc3f01d75e43eaffedeee0ff5802dd7959dea050a1ca918dea12b3ad405dc48","amount":47}],"status":"open","creator":"e4ec726248d4bbae5686c2af0e94f1c3ab804b447c757ce71df4c4c1a8707e4f","openingPrice":45,"vectorClock":{"e4ec726248d4bbae5686c2af0e94f1c3ab804b447c757ce71df4c4c1a8707e4f":1724271829205,"undefined":1724271863819}},"vectorClock":{"e4ec726248d4bbae5686c2af0e94f1c3ab804b447c757ce71df4c4c1a8707e4f":1724271829205,"undefined":1724271863819}}
+
+
+(auction-a56d0fb59cf3fe59fff48c354d104704™{"auctionId":"a56d0fb59cf3fe59fff48c354d104704","item":"car","bids":[],"status":"closed","creator":"e4ec726248d4bbae5686c2af0e94f1c3ab804b447c757ce71df4c4c1a8707e4f","openingPrice":45,"vectorClock":{"e4ec726248d4bbae5686c2af0e94f1c3ab804b447c757ce71df4c4c1a8707e4f":1724271877248}}

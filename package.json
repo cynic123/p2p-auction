@@ -1,0 +1,23 @@
+{
+  "name": "p2p-auction",
+  "version": "1.0.0",
+  "description": "A decentralized P2P auction system using Hyperswarm RPC and Hypercore.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "autobase": "^6.5.1",
+    "crypto": "^1.0.1",
+    "hyperbee": "^2.20.0",
+    "hypercore": "^10.37.18",
+    "hyperdht": "^6.16.2",
+    "hyperdrive": "^11.9.0",
+    "hyperswarm": "^4.8.2",
+    "level": "^8.0.1",
+    "uuid": "^10.0.0",
+    "winston": "^3.3.3"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}

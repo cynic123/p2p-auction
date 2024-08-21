@@ -1,0 +1,531 @@
+2024-08-21 20:42:27 [info]: Auction database initialized.
+2024-08-21 20:42:27 [info]: Node initialized with public key: da69ecce7d1a38cbbfc0901a69e50a73e103f74b74e5e0ec7b4d9f787aab4bb1
+2024-08-21 20:42:27 [info]: da69ecce7d1a38cbbfc0901a69e50a73e103f74b74e5e0ec7b4d9f787aab4bb1 starting election
+2024-08-21 20:42:27 [info]: da69ecce7d1a38cbbfc0901a69e50a73e103f74b74e5e0ec7b4d9f787aab4bb1 is elected as the leader
+2024-08-21 20:42:32 [info]: Auction database initialized.
+2024-08-21 20:42:32 [info]: Node initialized with public key: d3902c44d49e7dd01c81a9df67441bbf95db2443b7eb993c6c1a541ae1a41cd1
+2024-08-21 20:42:32 [info]: d3902c44d49e7dd01c81a9df67441bbf95db2443b7eb993c6c1a541ae1a41cd1 starting election
+2024-08-21 20:42:32 [info]: d3902c44d49e7dd01c81a9df67441bbf95db2443b7eb993c6c1a541ae1a41cd1 is elected as the leader
+2024-08-21 20:42:44 [info]: New peer connected.
+2024-08-21 20:42:44 [info]: New peer connected.
+2024-08-21 20:42:54 [info]: Broadcasting event "openAuction" to peers.
+2024-08-21 20:43:05 [error]: Connection error: connection timed out
+2024-08-21 20:43:05 [info]: Peer disconnected.
+2024-08-21 20:53:44 [info]: Auction database initialized.
+2024-08-21 20:53:44 [info]: Node initialized with public key: 4b87c7c3d41384dfe9f9ee7a3dcb79fa815cc085290aef2d923794ab3490ec3e
+2024-08-21 20:53:46 [info]: No peers connected, restarting election...
+2024-08-21 20:53:48 [info]: Auction database initialized.
+2024-08-21 20:53:48 [info]: Node initialized with public key: 018681ebe524223f155f2acedbe013fac8aae76afde00549f69a587e6603b5b6
+2024-08-21 20:53:50 [info]: No peers connected, restarting election...
+2024-08-21 20:53:50 [info]: 4b87c7c3d41384dfe9f9ee7a3dcb79fa815cc085290aef2d923794ab3490ec3e starting election
+2024-08-21 20:53:50 [info]: 4b87c7c3d41384dfe9f9ee7a3dcb79fa815cc085290aef2d923794ab3490ec3e is elected as the leader with 1 votes
+2024-08-21 20:53:50 [info]: Current leader after election: 4b87c7c3d41384dfe9f9ee7a3dcb79fa815cc085290aef2d923794ab3490ec3e
+2024-08-21 20:53:50 [info]: New peer connected.
+2024-08-21 20:53:50 [info]: New peer connected.
+2024-08-21 20:53:54 [info]: 018681ebe524223f155f2acedbe013fac8aae76afde00549f69a587e6603b5b6 starting election
+2024-08-21 20:57:39 [info]: Auction database initialized.
+2024-08-21 20:57:39 [info]: Node initialized with public key: 7fb15013d4cde39685923c6f239fd2ad304ce530413443040df6cbb0b705b153
+2024-08-21 20:57:41 [info]: No peers connected, restarting election...
+2024-08-21 20:57:41 [info]: Auction database initialized.
+2024-08-21 20:57:41 [info]: Node initialized with public key: 626719b9cdec79a41effe100a607175eef66c2f91adf5c5656debcf172273465
+2024-08-21 20:57:43 [info]: No peers connected, restarting election...
+2024-08-21 20:57:44 [info]: New peer connected.
+2024-08-21 20:57:44 [info]: New peer connected.
+2024-08-21 20:57:45 [info]: 7fb15013d4cde39685923c6f239fd2ad304ce530413443040df6cbb0b705b153 starting election
+2024-08-21 20:57:45 [info]: 7fb15013d4cde39685923c6f239fd2ad304ce530413443040df6cbb0b705b153 is elected as the leader with 1 votes
+2024-08-21 20:57:45 [info]: Current leader after election: 7fb15013d4cde39685923c6f239fd2ad304ce530413443040df6cbb0b705b153
+2024-08-21 20:57:47 [info]: 626719b9cdec79a41effe100a607175eef66c2f91adf5c5656debcf172273465 starting election
+2024-08-21 20:57:47 [info]: 626719b9cdec79a41effe100a607175eef66c2f91adf5c5656debcf172273465 is elected as the leader with 1 votes
+2024-08-21 20:57:47 [info]: Current leader after election: 626719b9cdec79a41effe100a607175eef66c2f91adf5c5656debcf172273465
+2024-08-21 20:58:18 [error]: Error broadcasting to peer: peer.write is not a function
+2024-08-21 20:58:30 [error]: Connection error: connection timed out
+2024-08-21 20:58:30 [info]: Peer disconnected.
+2024-08-21 21:00:55 [info]: Auction database initialized.
+2024-08-21 21:00:55 [info]: Node initialized with public key: 74c79e90d6db6c40c0abf1ff1376232855801e3f575846f81d9b8fa2568a32ba
+2024-08-21 21:00:57 [info]: No peers connected, restarting election...
+2024-08-21 21:00:59 [info]: Auction database initialized.
+2024-08-21 21:00:59 [info]: Node initialized with public key: 469d333530ffd966d7d024f81c54633689ec94ed17dc5f2e6197c7665e687d83
+2024-08-21 21:01:01 [info]: No peers connected, restarting election...
+2024-08-21 21:01:02 [info]: 74c79e90d6db6c40c0abf1ff1376232855801e3f575846f81d9b8fa2568a32ba starting election
+2024-08-21 21:01:02 [info]: 74c79e90d6db6c40c0abf1ff1376232855801e3f575846f81d9b8fa2568a32ba is elected as the leader with 1 votes
+2024-08-21 21:01:02 [info]: Current leader after election: 74c79e90d6db6c40c0abf1ff1376232855801e3f575846f81d9b8fa2568a32ba
+2024-08-21 21:01:04 [info]: 469d333530ffd966d7d024f81c54633689ec94ed17dc5f2e6197c7665e687d83 starting election
+2024-08-21 21:01:04 [info]: 469d333530ffd966d7d024f81c54633689ec94ed17dc5f2e6197c7665e687d83 is elected as the leader with 1 votes
+2024-08-21 21:01:04 [info]: Current leader after election: 469d333530ffd966d7d024f81c54633689ec94ed17dc5f2e6197c7665e687d83
+2024-08-21 21:01:11 [info]: New peer connected.
+2024-08-21 21:01:11 [info]: New peer connected.
+2024-08-21 21:01:31 [info]: Broadcasting event "openAuction" to peers.
+2024-08-21 21:01:42 [error]: Connection error: connection timed out
+2024-08-21 21:01:42 [info]: Peer disconnected.
+2024-08-21 21:08:55 [info]: Auction database initialized.
+2024-08-21 21:08:55 [info]: Node initialized with public key: a2d534531772d037da6985d1f97cb1a47b1ad4ad71f299fa2f58a2199b16a6e7
+2024-08-21 21:08:58 [info]: Auction database initialized.
+2024-08-21 21:08:58 [info]: Node initialized with public key: 5f2498776ae35c218c5f7e8b4587c0126181eb25f2dfbf8b910f90d38c16e75c
+2024-08-21 21:09:01 [info]: New peer connected.
+2024-08-21 21:09:01 [info]: New peer connected.
+2024-08-21 21:09:08 [info]: Auction 490888725b69abfa803c47a8af1b8ea8 opened for item: tree
+2024-08-21 21:09:08 [info]: Broadcasting event "auctionOpened" to peers.
+2024-08-21 21:09:08 [info]: Received auction opened event: {"auctionId":"490888725b69abfa803c47a8af1b8ea8","details":{"seq":1,"key":"auction-490888725b69abfa803c47a8af1b8ea8","value":{"auctionId":"490888725b69abfa803c47a8af1b8ea8","item":"tree","bids":[],"status":"open","creator":"a2d534531772d037da6985d1f97cb1a47b1ad4ad71f299fa2f58a2199b16a6e7","vectorClock":{"a2d534531772d037da6985d1f97cb1a47b1ad4ad71f299fa2f58a2199b16a6e7":1724254748097}}}}
+2024-08-21 21:09:19 [error]: Connection error: connection timed out
+2024-08-21 21:09:19 [info]: Peer disconnected.
+2024-08-21 21:11:43 [info]: Auction database initialized.
+2024-08-21 21:11:43 [info]: Node initialized with public key: 0f02561c9fdd6495fea4118eab83607b6fed8d2289b9fb57c9471307ccd75f62
+2024-08-21 21:11:47 [info]: Auction database initialized.
+2024-08-21 21:11:47 [info]: Node initialized with public key: bf88b1149b76ec4ff60874fae407227397c4c2ddc91c0f6177326e96482e8464
+2024-08-21 21:11:49 [info]: New peer connected.
+2024-08-21 21:11:49 [info]: New peer connected.
+2024-08-21 21:11:57 [info]: Auction 284de0873881749181525ab2f5b2e5d4 opened for item: tree
+2024-08-21 21:11:57 [info]: Broadcasting event "auctionOpened" to peers.
+2024-08-21 21:11:57 [info]: Received auction opened event: {"auctionId":"284de0873881749181525ab2f5b2e5d4","details":{"seq":1,"key":"auction-284de0873881749181525ab2f5b2e5d4","value":{"auctionId":"284de0873881749181525ab2f5b2e5d4","item":"tree","bids":[],"status":"open","creator":"0f02561c9fdd6495fea4118eab83607b6fed8d2289b9fb57c9471307ccd75f62","vectorClock":{"0f02561c9fdd6495fea4118eab83607b6fed8d2289b9fb57c9471307ccd75f62":1724254917742}}}}
+2024-08-21 21:14:42 [info]: Auction database initialized.
+2024-08-21 21:14:42 [info]: Node initialized with public key: 8c8a84615ec154434378276659eb117583080391241b7ee77aabb2eeb9a35ab8
+2024-08-21 21:14:45 [info]: Auction database initialized.
+2024-08-21 21:14:45 [info]: Node initialized with public key: 336238759ef0f35b1303a1c9b6c62220e57c24f70890be9b2050f840c03753bf
+2024-08-21 21:14:48 [info]: New peer connected.
+2024-08-21 21:14:48 [info]: New peer connected.
+2024-08-21 21:14:53 [info]: Auction e7bd632c68fbfdc230da4a62e497776a opened for item: tree
+2024-08-21 21:14:53 [info]: Broadcasting event "auctionOpened" to peers.
+2024-08-21 21:14:53 [info]: Received auction opened event: {"auctionId":"e7bd632c68fbfdc230da4a62e497776a","details":{"seq":1,"key":"auction-e7bd632c68fbfdc230da4a62e497776a","value":{"auctionId":"e7bd632c68fbfdc230da4a62e497776a","item":"tree","bids":[],"status":"open","creator":"8c8a84615ec154434378276659eb117583080391241b7ee77aabb2eeb9a35ab8","vectorClock":{"8c8a84615ec154434378276659eb117583080391241b7ee77aabb2eeb9a35ab8":1724255093633}}}}
+2024-08-21 21:15:14 [error]: Connection error: connection timed out
+2024-08-21 21:15:14 [info]: Peer disconnected.
+2024-08-21 21:21:47 [info]: Auction database initialized.
+2024-08-21 21:21:47 [info]: Node initialized with public key: bcdeca803ff900a98eb1422c27596e978389521b38133552c2b4c86163843ae0
+2024-08-21 21:21:50 [info]: Auction database initialized.
+2024-08-21 21:21:50 [info]: Node initialized with public key: d3da260310e59b67b2d75b47afca84285f36dfe5198f8d1744e6775c38156af2
+2024-08-21 21:21:53 [info]: New peer connected.
+2024-08-21 21:21:53 [info]: New peer connected.
+2024-08-21 21:22:01 [info]: Auction 854fba3fd29b403c934de2cf5da83396 opened for item: tree
+2024-08-21 21:22:01 [info]: Broadcasting event "auctionOpened" to peers.
+2024-08-21 21:22:01 [info]: Received auction opened event: {"auctionId":"854fba3fd29b403c934de2cf5da83396","details":{"seq":1,"key":"auction-854fba3fd29b403c934de2cf5da83396","value":{"auctionId":"854fba3fd29b403c934de2cf5da83396","item":"tree","bids":[],"status":"open","creator":"bcdeca803ff900a98eb1422c27596e978389521b38133552c2b4c86163843ae0","vectorClock":{"bcdeca803ff900a98eb1422c27596e978389521b38133552c2b4c86163843ae0":1724255521295}}}}
+2024-08-21 21:22:01 [info]: Auction undefined persisted locally.
+2024-08-21 21:25:02 [info]: Auction database initialized.
+2024-08-21 21:25:02 [info]: Node initialized with public key: 2599435eacd9c5bbe1107c223836449bbb60fc7e8a1b7e9fc5426b024fe84215
+2024-08-21 21:25:05 [info]: Auction database initialized.
+2024-08-21 21:25:05 [info]: Node initialized with public key: 03a5e9d714788969688867da06c44b728df34cdd1c40e63f88f293ce4074b953
+2024-08-21 21:25:07 [info]: New peer connected.
+2024-08-21 21:25:07 [info]: New peer connected.
+2024-08-21 21:25:44 [info]: Auction 0ee64e2443376b43fabbb806c917d5b4 opened for item: tree
+2024-08-21 21:25:44 [info]: Broadcasting event "auctionOpened" to peers.
+2024-08-21 21:25:44 [info]: Received auction opened event: {"auctionId":"0ee64e2443376b43fabbb806c917d5b4","details":{"seq":1,"key":"auction-0ee64e2443376b43fabbb806c917d5b4","value":{"auctionId":"0ee64e2443376b43fabbb806c917d5b4","item":"tree","bids":[],"status":"open","creator":"2599435eacd9c5bbe1107c223836449bbb60fc7e8a1b7e9fc5426b024fe84215","vectorClock":{"2599435eacd9c5bbe1107c223836449bbb60fc7e8a1b7e9fc5426b024fe84215":1724255744633}}}}
+2024-08-21 21:25:44 [info]: Auction undefined persisted locally.
+2024-08-21 21:26:15 [error]: Connection error: connection timed out
+2024-08-21 21:26:15 [info]: Peer disconnected.
+2024-08-21 21:27:15 [info]: Auction database initialized.
+2024-08-21 21:27:15 [info]: Node initialized with public key: 7058208451f1b375ab855ae14bb9e172f3c572b928612b8a2112ffce6ea55d0d
+2024-08-21 21:27:17 [info]: New peer connected.
+2024-08-21 21:27:17 [info]: New peer connected.
+2024-08-21 21:27:27 [info]: Auction 45af21bb9f5fde82069ff732123aeaa7 opened for item: car
+2024-08-21 21:27:27 [info]: Broadcasting event "auctionOpened" to peers.
+2024-08-21 21:27:27 [info]: Received auction opened event: {"auctionId":"45af21bb9f5fde82069ff732123aeaa7","details":{"seq":2,"key":"auction-45af21bb9f5fde82069ff732123aeaa7","value":{"auctionId":"45af21bb9f5fde82069ff732123aeaa7","item":"car","bids":[],"status":"open","creator":"2599435eacd9c5bbe1107c223836449bbb60fc7e8a1b7e9fc5426b024fe84215","vectorClock":{"2599435eacd9c5bbe1107c223836449bbb60fc7e8a1b7e9fc5426b024fe84215":1724255847511}}}}
+2024-08-21 21:27:38 [error]: Connection error: connection timed out
+2024-08-21 21:27:38 [info]: Peer disconnected.
+2024-08-21 21:28:17 [info]: Auction undefined persisted locally.
+2024-08-21 21:28:28 [error]: Connection error: connection timed out
+2024-08-21 21:28:28 [info]: Peer disconnected.
+2024-08-21 21:30:27 [info]: Auction database initialized.
+2024-08-21 21:30:27 [info]: Node initialized with public key: 9a1228a0e788c1be002a2b1c0652a57092c05d576f76f69400652ad0f8a8068d
+2024-08-21 21:30:30 [info]: Auction database initialized.
+2024-08-21 21:30:30 [info]: Node initialized with public key: 6a0b5ca657e30b18c351e7177a75596163ccfffe7e665fe2373973db8441980a
+2024-08-21 21:31:11 [info]: New peer connected.
+2024-08-21 21:31:11 [info]: New peer connected.
+2024-08-21 21:31:22 [info]: Auction 5694a421033d31108339eefb8e0d4dc9 opened for item: tree
+2024-08-21 21:31:22 [info]: Broadcasting event "auctionOpened" to peers.
+2024-08-21 21:31:22 [info]: Received auction opened event: {"auctionId":"5694a421033d31108339eefb8e0d4dc9","details":{"seq":1,"key":"auction-5694a421033d31108339eefb8e0d4dc9","value":{"auctionId":"5694a421033d31108339eefb8e0d4dc9","item":"tree","bids":[],"status":"open","creator":"6a0b5ca657e30b18c351e7177a75596163ccfffe7e665fe2373973db8441980a","vectorClock":{"6a0b5ca657e30b18c351e7177a75596163ccfffe7e665fe2373973db8441980a":1724256082083}}}}
+2024-08-21 21:31:22 [info]: Auction 5694a421033d31108339eefb8e0d4dc9 persisted locally.
+2024-08-21 21:31:53 [error]: Connection error: connection timed out
+2024-08-21 21:31:53 [info]: Peer disconnected.
+2024-08-21 21:34:32 [info]: Auction database initialized.
+2024-08-21 21:34:32 [info]: Node initialized with public key: cf8532a6e980d02946434ae920db9a147d9f5d356f816a47d0f376dd141fdb3c
+2024-08-21 21:34:35 [info]: Auction database initialized.
+2024-08-21 21:34:35 [info]: Node initialized with public key: 251802c1f36410867b823ea2c897e75d19a81fdcbb6b0c713cb30fb2d6ac4f31
+2024-08-21 21:34:48 [info]: New peer connected.
+2024-08-21 21:34:48 [info]: New peer connected.
+2024-08-21 21:34:57 [info]: Auction 0d4ef52361a6784913e0098c7b58dbb2 opened for item: gas
+2024-08-21 21:34:57 [info]: Broadcasting event "auctionOpened" to peers.
+2024-08-21 21:34:57 [info]: Received auction opened event: {"auctionId":"0d4ef52361a6784913e0098c7b58dbb2","details":{"seq":1,"key":"auction-0d4ef52361a6784913e0098c7b58dbb2","value":{"auctionId":"0d4ef52361a6784913e0098c7b58dbb2","item":"gas","bids":[],"status":"open","creator":"cf8532a6e980d02946434ae920db9a147d9f5d356f816a47d0f376dd141fdb3c","vectorClock":{"cf8532a6e980d02946434ae920db9a147d9f5d356f816a47d0f376dd141fdb3c":1724256297076}}}}
+2024-08-21 21:34:57 [info]: Auction 0d4ef52361a6784913e0098c7b58dbb2 persisted locally.
+2024-08-21 21:35:15 [info]: Attempting to place bid. Auction status: undefined
+2024-08-21 21:35:28 [error]: Connection error: connection timed out
+2024-08-21 21:35:28 [info]: Peer disconnected.
+2024-08-21 21:36:06 [info]: Auction database initialized.
+2024-08-21 21:36:06 [info]: Node initialized with public key: 6aaf42bb4c62eb7ee7cfc5716e8b13d4215a2f8a3a47e0903b6e73d6d0207208
+2024-08-21 21:37:06 [error]: Auction with ID 0d4ef52361a6784913e0098c7b58dbb2 does not exist locally.
+2024-08-21 21:37:06 [info]: Broadcasting event "bidPlaced" to peers.
+2024-08-21 21:37:07 [info]: New peer connected.
+2024-08-21 21:37:07 [info]: New peer connected.
+2024-08-21 21:37:14 [info]: Auction database initialized.
+2024-08-21 21:37:14 [info]: Node initialized with public key: d5d74c3d386e5b10385a2a9d03307ebce2555d402fd617c53a6cdfffe43dca31
+2024-08-21 21:37:18 [info]: Auction database initialized.
+2024-08-21 21:37:18 [info]: Node initialized with public key: 628f3c5e84278bd834d48c6c35853e4d5432ed95348ee8445c05617a040f586f
+2024-08-21 21:37:20 [info]: New peer connected.
+2024-08-21 21:37:20 [info]: New peer connected.
+2024-08-21 21:37:32 [info]: Auction 343c7c52cbb370d9c975674ff4c4a334 opened for item: house
+2024-08-21 21:37:32 [info]: Broadcasting event "auctionOpened" to peers.
+2024-08-21 21:37:32 [info]: Received auction opened event: {"auctionId":"343c7c52cbb370d9c975674ff4c4a334","details":{"seq":1,"key":"auction-343c7c52cbb370d9c975674ff4c4a334","value":{"auctionId":"343c7c52cbb370d9c975674ff4c4a334","item":"house","bids":[],"status":"open","creator":"d5d74c3d386e5b10385a2a9d03307ebce2555d402fd617c53a6cdfffe43dca31","vectorClock":{"d5d74c3d386e5b10385a2a9d03307ebce2555d402fd617c53a6cdfffe43dca31":1724256452313}}}}
+2024-08-21 21:37:43 [error]: Connection error: connection timed out
+2024-08-21 21:37:43 [info]: Peer disconnected.
+2024-08-21 21:39:41 [info]: Auction 343c7c52cbb370d9c975674ff4c4a334 persisted locally.
+2024-08-21 21:39:55 [error]: Connection error: connection timed out
+2024-08-21 21:39:55 [info]: Peer disconnected.
+2024-08-21 21:40:01 [info]: New peer connected.
+2024-08-21 21:40:01 [info]: New peer connected.
+2024-08-21 21:40:37 [error]: Connection error: connection timed out
+2024-08-21 21:40:37 [info]: Peer disconnected.
+2024-08-21 21:40:49 [info]: Attempting to place bid. Auction status: undefined
+2024-08-21 21:45:44 [info]: Auction database initialized.
+2024-08-21 21:45:44 [info]: Node initialized with public key: b7de20f56e2ff1231239b7b325c278c16a334fcc7dabb6b242d6cefa14b5162c
+2024-08-21 21:45:49 [info]: Auction database initialized.
+2024-08-21 21:45:49 [info]: Node initialized with public key: 85c7f53e107dd1729ccf445929cc149c8e1542c3c3a4e3ab87d8d67eceabbc1f
+2024-08-21 21:46:01 [info]: New peer connected.
+2024-08-21 21:46:01 [info]: New peer connected.
+2024-08-21 21:46:09 [info]: Auction 113fe37b0d2a893bcf50016154caafa3 opened for item: tree
+2024-08-21 21:46:09 [info]: Broadcasting event "auctionOpened" to peers.
+2024-08-21 21:46:09 [info]: Received auction opened event: {"auctionId":"113fe37b0d2a893bcf50016154caafa3","details":{"seq":1,"key":"auction-113fe37b0d2a893bcf50016154caafa3","value":{"auctionId":"113fe37b0d2a893bcf50016154caafa3","item":"tree","bids":[],"status":"open","creator":"b7de20f56e2ff1231239b7b325c278c16a334fcc7dabb6b242d6cefa14b5162c","vectorClock":{"b7de20f56e2ff1231239b7b325c278c16a334fcc7dabb6b242d6cefa14b5162c":1724256969108}}}}
+2024-08-21 21:46:13 [info]: Auction 113fe37b0d2a893bcf50016154caafa3 persisted locally.
+2024-08-21 21:47:00 [error]: Connection error: connection timed out
+2024-08-21 21:47:00 [info]: Peer disconnected.
+2024-08-21 21:47:56 [info]: Attempting to place bid. Auction status: open
+2024-08-21 21:49:53 [info]: Auction database initialized.
+2024-08-21 21:49:53 [info]: Node initialized with public key: 420536471287072c2e097b9f9fb49df463ba0ba4020903fec43aee69a3129e57
+2024-08-21 21:49:56 [info]: Auction database initialized.
+2024-08-21 21:49:56 [info]: Node initialized with public key: e9c070e4e1a42164c6a6ac4ab331c11a70fe97c78bee095e8c0fd65176719440
+2024-08-21 21:50:05 [info]: Auction f7be7e27cccf1ab0bc949f7d76c36b09 opened for item: apple
+2024-08-21 21:50:05 [info]: Broadcasting event "auctionOpened" to peers.
+2024-08-21 21:50:05 [info]: New peer connected.
+2024-08-21 21:50:05 [info]: New peer connected.
+2024-08-21 21:50:19 [info]: Auction be977d29e20fafda960ce6d745cfd8fc opened for item: jar
+2024-08-21 21:50:19 [info]: Broadcasting event "auctionOpened" to peers.
+2024-08-21 21:50:19 [info]: Received auction opened event: {"auctionId":"be977d29e20fafda960ce6d745cfd8fc","details":{"seq":2,"key":"auction-be977d29e20fafda960ce6d745cfd8fc","value":{"auctionId":"be977d29e20fafda960ce6d745cfd8fc","item":"jar","bids":[],"status":"open","creator":"e9c070e4e1a42164c6a6ac4ab331c11a70fe97c78bee095e8c0fd65176719440","vectorClock":{"e9c070e4e1a42164c6a6ac4ab331c11a70fe97c78bee095e8c0fd65176719440":1724257219091}}}}
+2024-08-21 21:50:30 [error]: Connection error: connection timed out
+2024-08-21 21:50:30 [info]: Peer disconnected.
+2024-08-21 21:50:34 [info]: Auction be977d29e20fafda960ce6d745cfd8fc persisted locally.
+2024-08-21 22:14:31 [info]: Auction database initialized.
+2024-08-21 22:14:31 [info]: Node initialized with public key: 2db7acdd64ea9ed4a25b5bb648437b44b84ea15fe0a98756327b4f6c8e69824d
+2024-08-21 22:14:35 [info]: Auction database initialized.
+2024-08-21 22:14:35 [info]: Node initialized with public key: 3f26d0bc82136f515e180c31ece8111176309f05a979dad99eb5753212a3180a
+2024-08-21 22:14:38 [info]: New peer connected.
+2024-08-21 22:14:38 [info]: New peer connected.
+2024-08-21 22:14:48 [info]: Auction fdf1d4ce8d9f90ed74f11f9718552923 opened for item: orange
+2024-08-21 22:14:48 [info]: Broadcasting event "auctionOpened" to peers.
+2024-08-21 22:14:48 [info]: Received auction opened event: {"auctionId":"fdf1d4ce8d9f90ed74f11f9718552923","details":{"seq":1,"key":"auction-fdf1d4ce8d9f90ed74f11f9718552923","value":{"auctionId":"fdf1d4ce8d9f90ed74f11f9718552923","item":"orange","bids":[],"status":"open","creator":"3f26d0bc82136f515e180c31ece8111176309f05a979dad99eb5753212a3180a","vectorClock":{"3f26d0bc82136f515e180c31ece8111176309f05a979dad99eb5753212a3180a":1724258688600}}}}
+2024-08-21 22:14:59 [error]: Connection error: connection timed out
+2024-08-21 22:14:59 [info]: Peer disconnected.
+2024-08-21 22:15:40 [info]: Auction fdf1d4ce8d9f90ed74f11f9718552923 persisted locally.
+2024-08-21 22:28:20 [info]: Auction database initialized.
+2024-08-21 22:28:20 [info]: Node initialized with public key: ab38f7dd7132aa087dc7536c3874c74941a5e8b1010afcdd98ac91e05f20c076
+2024-08-21 22:28:32 [info]: Auction database initialized.
+2024-08-21 22:28:32 [info]: Node initialized with public key: 25193bda0c0dede051c4d75eecafa7450e736df4823fec856b12b5264e272720
+2024-08-21 22:28:34 [info]: New peer connected.
+2024-08-21 22:28:34 [info]: New peer connected.
+2024-08-21 22:28:42 [info]: Auction b220970efe29953f1bd48ac7238dd111 opened for item: tree
+2024-08-21 22:28:42 [info]: Broadcasting event "auctionOpened" to peers.
+2024-08-21 22:28:42 [info]: Received auction opened event: {"auctionId":"b220970efe29953f1bd48ac7238dd111","details":{"seq":1,"key":"auction-b220970efe29953f1bd48ac7238dd111","value":{"auctionId":"b220970efe29953f1bd48ac7238dd111","item":"tree","bids":[],"status":"open","creator":"ab38f7dd7132aa087dc7536c3874c74941a5e8b1010afcdd98ac91e05f20c076","vectorClock":{"ab38f7dd7132aa087dc7536c3874c74941a5e8b1010afcdd98ac91e05f20c076":1724259522456}}}}
+2024-08-21 22:28:53 [error]: Connection error: connection timed out
+2024-08-21 22:28:53 [info]: Peer disconnected.
+2024-08-21 22:29:05 [info]: Auction b220970efe29953f1bd48ac7238dd111 persisted locally.
+2024-08-21 22:29:20 [error]: Connection error: connection timed out
+2024-08-21 22:29:20 [info]: Peer disconnected.
+2024-08-21 22:29:22 [info]: New peer connected.
+2024-08-21 22:29:22 [info]: New peer connected.
+2024-08-21 22:29:48 [error]: Connection error: connection timed out
+2024-08-21 22:29:48 [info]: Peer disconnected.
+2024-08-21 22:29:49 [error]: Auction with ID 2 does not exist locally.
+2024-08-21 22:29:49 [info]: Broadcasting event "bidPlaced" to peers.
+2024-08-21 22:30:00 [error]: Connection error: connection timed out
+2024-08-21 22:30:00 [info]: Peer disconnected.
+2024-08-21 22:30:02 [info]: New peer connected.
+2024-08-21 22:30:02 [info]: New peer connected.
+2024-08-21 22:30:38 [error]: Connection error: connection timed out
+2024-08-21 22:30:38 [info]: Peer disconnected.
+2024-08-21 22:31:09 [info]: Attempting to place bid. Auction status: undefined
+2024-08-21 22:33:00 [info]: Auction database initialized.
+2024-08-21 22:33:00 [info]: Node initialized with public key: 9b65f8941c4dad409764c3880f17193eec79040d290f608971ad74755308a8b2
+2024-08-21 22:33:21 [info]: Auction database initialized.
+2024-08-21 22:33:21 [info]: Node initialized with public key: 4c488b35384cdd35b7b4d7f9dc92f56d4599898121ccafcf8b122eee475f58ac
+2024-08-21 22:33:28 [info]: Auction database initialized.
+2024-08-21 22:33:28 [info]: Node initialized with public key: ec6cf45b035d2371f118946b4fac9ccece6828a51767b4674ccc9a2558e3496e
+2024-08-21 22:33:36 [info]: Auction database initialized.
+2024-08-21 22:33:36 [info]: Node initialized with public key: 3fb5d5f860b3883c13d1288b088b49294f35d8d5e9a9f937eee665c804d67d92
+2024-08-21 22:33:39 [info]: New peer connected.
+2024-08-21 22:33:39 [info]: New peer connected.
+2024-08-21 22:33:53 [info]: Auction cc15624eef42a782fb7bcca88e289110 opened for item: gas
+2024-08-21 22:33:53 [info]: Broadcasting event "auctionOpened" to peers.
+2024-08-21 22:33:53 [info]: Received auction opened event: {"auctionId":"cc15624eef42a782fb7bcca88e289110","details":{"seq":1,"key":"auction-cc15624eef42a782fb7bcca88e289110","value":{"auctionId":"cc15624eef42a782fb7bcca88e289110","item":"gas","bids":[],"status":"open","creator":"ec6cf45b035d2371f118946b4fac9ccece6828a51767b4674ccc9a2558e3496e","vectorClock":{"ec6cf45b035d2371f118946b4fac9ccece6828a51767b4674ccc9a2558e3496e":1724259833114}}}}
+2024-08-21 22:34:04 [error]: Connection error: connection timed out
+2024-08-21 22:34:04 [info]: Peer disconnected.
+2024-08-21 22:34:05 [info]: Auction cc15624eef42a782fb7bcca88e289110 persisted locally.
+2024-08-21 22:34:16 [error]: Connection error: connection timed out
+2024-08-21 22:34:16 [info]: Peer disconnected.
+2024-08-21 22:34:20 [info]: New peer connected.
+2024-08-21 22:34:20 [info]: New peer connected.
+2024-08-21 22:35:01 [error]: Connection error: connection timed out
+2024-08-21 22:35:01 [info]: Peer disconnected.
+2024-08-21 22:35:24 [info]: Attempting to place bid. Auction status: open
+2024-08-21 22:35:53 [info]: Bid of 34 placed on auction cc15624eef42a782fb7bcca88e289110
+2024-08-21 22:36:33 [info]: Broadcasting event "bidPlaced" to peers.
+2024-08-21 22:36:41 [error]: Connection error: connection timed out
+2024-08-21 22:36:41 [info]: Peer disconnected.
+2024-08-21 22:36:43 [info]: New peer connected.
+2024-08-21 22:36:43 [info]: New peer connected.
+2024-08-21 22:38:36 [info]: Attempting to place bid. Auction status: open
+2024-08-21 22:38:36 [info]: Bid of 23 placed on auction cc15624eef42a782fb7bcca88e289110
+2024-08-21 22:38:36 [info]: Broadcasting event "bidPlaced" to peers.
+2024-08-21 22:38:36 [info]: Received bid placed event: {"auctionId":"cc15624eef42a782fb7bcca88e289110","bid":{"bidder":"ec6cf45b035d2371f118946b4fac9ccece6828a51767b4674ccc9a2558e3496e","amount":23}}
+2024-08-21 22:38:47 [error]: Connection error: connection timed out
+2024-08-21 22:38:47 [info]: Peer disconnected.
+2024-08-21 22:42:29 [info]: Auction database initialized.
+2024-08-21 22:42:29 [info]: Node initialized with public key: d193fba6703a793d7e25c6f2e2bb06d425eaf74d248384826c4285f53e37ebcf
+2024-08-21 22:42:32 [info]: Auction database initialized.
+2024-08-21 22:42:32 [info]: Node initialized with public key: c3fe1045000d82803604d67a8f58cd2d742598c927e946390873a7f8e4b8d6e7
+2024-08-21 22:42:44 [info]: New peer connected.
+2024-08-21 22:42:44 [info]: New peer connected.
+2024-08-21 22:42:48 [info]: Auction 58fa98ad30cf706e7be4f5ee3a669980 opened for item: coffee
+2024-08-21 22:42:48 [info]: Broadcasting event "auctionOpened" to peers.
+2024-08-21 22:42:48 [info]: Received auction opened event: {"auctionId":"58fa98ad30cf706e7be4f5ee3a669980","details":{"seq":1,"key":"auction-58fa98ad30cf706e7be4f5ee3a669980","value":{"auctionId":"58fa98ad30cf706e7be4f5ee3a669980","item":"coffee","bids":[],"status":"open","creator":"c3fe1045000d82803604d67a8f58cd2d742598c927e946390873a7f8e4b8d6e7","vectorClock":{"c3fe1045000d82803604d67a8f58cd2d742598c927e946390873a7f8e4b8d6e7":1724260368481}}}}
+2024-08-21 22:42:59 [error]: Connection error: connection timed out
+2024-08-21 22:42:59 [info]: Peer disconnected.
+2024-08-21 22:43:02 [info]: Auction 58fa98ad30cf706e7be4f5ee3a669980 persisted locally.
+2024-08-21 22:43:35 [info]: New peer connected.
+2024-08-21 22:43:35 [error]: Connection error: Duplicate connection
+2024-08-21 22:43:35 [info]: Peer disconnected.
+2024-08-21 22:43:35 [info]: New peer connected.
+2024-08-21 22:43:46 [info]: Attempting to place bid. Auction status: open
+2024-08-21 22:43:46 [info]: Bid of 23 placed on auction 58fa98ad30cf706e7be4f5ee3a669980
+2024-08-21 22:43:46 [info]: Broadcasting event "bidPlaced" to peers.
+2024-08-21 22:43:46 [info]: Received bid placed event: {"auctionId":"58fa98ad30cf706e7be4f5ee3a669980","bid":{"bidder":"c3fe1045000d82803604d67a8f58cd2d742598c927e946390873a7f8e4b8d6e7","amount":23}}
+2024-08-21 22:43:57 [error]: Connection error: connection timed out
+2024-08-21 22:43:57 [info]: Peer disconnected.
+2024-08-21 22:47:46 [info]: Auction database initialized.
+2024-08-21 22:47:46 [info]: Node initialized with public key: 3a38aee9fb074fcb4230e693d3bc2fcaca3bec88c9d491115f577efa9be0393d
+2024-08-21 22:47:56 [info]: Auction database initialized.
+2024-08-21 22:47:56 [info]: Node initialized with public key: 67ad5ddcc66e1aa4a41fa682f81bcd72dc75595c294cc3761a37f90ddf0bfc77
+2024-08-21 22:48:09 [info]: New peer connected.
+2024-08-21 22:48:09 [info]: New peer connected.
+2024-08-21 22:48:19 [info]: Auction 29707914ffac3680417e89cc1fca59d1 opened for item: shoes
+2024-08-21 22:48:19 [info]: Broadcasting event "auctionOpened" to peers.
+2024-08-21 22:48:19 [info]: Received auction opened event: {"auctionId":"29707914ffac3680417e89cc1fca59d1","details":{"seq":1,"key":"auction-29707914ffac3680417e89cc1fca59d1","value":{"auctionId":"29707914ffac3680417e89cc1fca59d1","item":"shoes","bids":[],"status":"open","creator":"67ad5ddcc66e1aa4a41fa682f81bcd72dc75595c294cc3761a37f90ddf0bfc77","vectorClock":{"67ad5ddcc66e1aa4a41fa682f81bcd72dc75595c294cc3761a37f90ddf0bfc77":1724260699668}}}}
+2024-08-21 22:48:19 [info]: Auction 29707914ffac3680417e89cc1fca59d1 persisted locally.
+2024-08-21 22:48:41 [info]: Attempting to place bid. Auction status: open
+2024-08-21 22:48:41 [info]: Bid of 45 placed on auction 29707914ffac3680417e89cc1fca59d1
+2024-08-21 22:48:41 [info]: Broadcasting event "bidPlaced" to peers.
+2024-08-21 22:48:41 [info]: Received bid placed event: {"auctionId":"29707914ffac3680417e89cc1fca59d1","bid":{"bidder":"3a38aee9fb074fcb4230e693d3bc2fcaca3bec88c9d491115f577efa9be0393d","amount":45}}
+2024-08-21 22:50:37 [info]: Auction database initialized.
+2024-08-21 22:50:37 [info]: Node initialized with public key: e9077839d48087dee6b2909395f6ca62544c0a9a88e4ceaa0f508794fe700a84
+2024-08-21 22:50:42 [info]: Auction database initialized.
+2024-08-21 22:50:42 [info]: Node initialized with public key: 66b615fc74d387b922c2db118a3c6b7b7897037f14ed0b5e860862fc02cfaf1a
+2024-08-21 22:50:44 [info]: New peer connected.
+2024-08-21 22:50:44 [info]: New peer connected.
+2024-08-21 22:50:55 [info]: Auction c67097ec5c382b013d3879f7bb537f45 opened for item: egg
+2024-08-21 22:50:55 [info]: Broadcasting event "auctionOpened" to peers.
+2024-08-21 22:50:55 [info]: Received auction opened event: {"auctionId":"c67097ec5c382b013d3879f7bb537f45","details":{"seq":1,"key":"auction-c67097ec5c382b013d3879f7bb537f45","value":{"auctionId":"c67097ec5c382b013d3879f7bb537f45","item":"egg","bids":[],"status":"open","creator":"66b615fc74d387b922c2db118a3c6b7b7897037f14ed0b5e860862fc02cfaf1a","vectorClock":{"66b615fc74d387b922c2db118a3c6b7b7897037f14ed0b5e860862fc02cfaf1a":1724260855203}}}}
+2024-08-21 22:50:55 [info]: Auction c67097ec5c382b013d3879f7bb537f45 persisted locally.
+2024-08-21 22:51:10 [info]: Attempting to place bid. Auction status: open
+2024-08-21 22:51:10 [info]: Bid of 23 placed on auction c67097ec5c382b013d3879f7bb537f45
+2024-08-21 22:51:10 [info]: Broadcasting event "bidPlaced" to peers.
+2024-08-21 22:51:10 [info]: Received bid placed event: {"auctionId":"c67097ec5c382b013d3879f7bb537f45","bid":{"bidder":"e9077839d48087dee6b2909395f6ca62544c0a9a88e4ceaa0f508794fe700a84","amount":23}}
+2024-08-21 22:51:21 [error]: Connection error: connection timed out
+2024-08-21 22:51:21 [info]: Peer disconnected.
+2024-08-21 22:51:37 [info]: Auction database initialized.
+2024-08-21 22:51:37 [info]: Node initialized with public key: 2e6895ca26364327665a2c3f5d3ac0706f48c8bc1394d2597f30d780a44eb2bc
+2024-08-21 22:51:52 [info]: Auction 9511d0e76dfc84d64d1df783a8205053 opened for item: bat
+2024-08-21 22:51:52 [info]: Broadcasting event "auctionOpened" to peers.
+2024-08-21 22:52:17 [info]: Auction database initialized.
+2024-08-21 22:52:17 [info]: Node initialized with public key: 7f672dae1e942557490f4637c713ddebd195ef5bf54da65b894fadbf0fd93e19
+2024-08-21 22:52:19 [info]: Auction database initialized.
+2024-08-21 22:52:19 [info]: Node initialized with public key: 6a6af74edc25eda7279fbd2efddbdc993128d0a08efd967b52b516780da4da27
+2024-08-21 22:52:22 [info]: New peer connected.
+2024-08-21 22:52:22 [info]: New peer connected.
+2024-08-21 22:52:27 [info]: Auction 62772b082641a10b234fd4420f74c205 opened for item: bat
+2024-08-21 22:52:27 [info]: Broadcasting event "auctionOpened" to peers.
+2024-08-21 22:52:27 [info]: Received auction opened event: {"auctionId":"62772b082641a10b234fd4420f74c205","details":{"seq":1,"key":"auction-62772b082641a10b234fd4420f74c205","value":{"auctionId":"62772b082641a10b234fd4420f74c205","item":"bat","bids":[],"status":"open","creator":"7f672dae1e942557490f4637c713ddebd195ef5bf54da65b894fadbf0fd93e19","vectorClock":{"7f672dae1e942557490f4637c713ddebd195ef5bf54da65b894fadbf0fd93e19":1724260947653}}}}
+2024-08-21 22:52:27 [info]: Auction 62772b082641a10b234fd4420f74c205 persisted locally.
+2024-08-21 22:52:49 [info]: Attempting to place bid. Auction status: open
+2024-08-21 22:52:49 [info]: Bid of 34 placed on auction 62772b082641a10b234fd4420f74c205
+2024-08-21 22:52:49 [info]: Broadcasting event "bidPlaced" to peers.
+2024-08-21 22:52:49 [info]: Received bid placed event: {"auctionId":"62772b082641a10b234fd4420f74c205","bid":{"bidder":"7f672dae1e942557490f4637c713ddebd195ef5bf54da65b894fadbf0fd93e19","amount":34}}
+2024-08-21 22:53:05 [error]: Connection error: connection timed out
+2024-08-21 22:53:05 [info]: Peer disconnected.
+2024-08-21 22:55:03 [info]: Auction database initialized.
+2024-08-21 22:55:03 [info]: Node initialized with public key: 506ec4f92c01b2cdb83c0d5f58dc646c9f36e1225bcad633d4ef9048d65e4a89
+2024-08-21 22:55:05 [info]: Auction database initialized.
+2024-08-21 22:55:05 [info]: Node initialized with public key: 41ebab244c7742a9fc061bf72be1200f0656b77d1b3467484e41b5f4840032da
+2024-08-21 22:55:16 [info]: Auction 6bba9f043da68836df33d22a83564d11 opened for item: cat
+2024-08-21 22:55:16 [info]: Broadcasting event "auctionOpened" to peers.
+2024-08-21 22:55:25 [info]: Attempting to place bid. Auction status: open
+2024-08-21 22:55:25 [info]: Bid of 23 placed on auction 6bba9f043da68836df33d22a83564d11
+2024-08-21 22:55:25 [info]: Broadcasting event "bidPlaced" to peers.
+2024-08-21 22:55:37 [info]: Listing all auctions.
+2024-08-21 22:55:57 [error]: Auction with ID 6bba9f043da68836df33d22a83564d11 does not exist locally.
+2024-08-21 22:55:57 [info]: Broadcasting event "bidPlaced" to peers.
+2024-08-21 22:57:48 [info]: Attempting to place bid. Auction status: undefined
+2024-08-21 22:58:34 [error]: Auction with ID 6bba9f043da68836df33d22a83564d11 does not exist locally.
+2024-08-21 22:58:34 [info]: Broadcasting event "bidPlaced" to peers.
+2024-08-22 01:08:18 [info]: Auction database initialized.
+2024-08-22 01:08:18 [info]: Node initialized with public key: 8509b3b364e9224ccb52d68f60a6e3c0c25c8764a06ad6d6e4f7ca733c778fb1
+2024-08-22 01:08:31 [info]: Auction database initialized.
+2024-08-22 01:08:31 [info]: Node initialized with public key: 1580bbe7d51e687cb9b68955fa38bd4ba5e36993a302113240a6297522497af9
+2024-08-22 01:08:33 [info]: New peer connected.
+2024-08-22 01:08:33 [info]: New peer connected.
+2024-08-22 01:08:35 [info]: Auction 4e4977e8c4d66b9e946bfb38b4a14caf opened for item: tree
+2024-08-22 01:08:35 [info]: Broadcasting event "auctionOpened" to peers.
+2024-08-22 01:08:35 [info]: Received auction opened event: {"auctionId":"4e4977e8c4d66b9e946bfb38b4a14caf","details":{"seq":1,"key":"auction-4e4977e8c4d66b9e946bfb38b4a14caf","value":{"auctionId":"4e4977e8c4d66b9e946bfb38b4a14caf","item":"tree","bids":[],"status":"open","creator":"1580bbe7d51e687cb9b68955fa38bd4ba5e36993a302113240a6297522497af9","vectorClock":{"1580bbe7d51e687cb9b68955fa38bd4ba5e36993a302113240a6297522497af9":1724269115644}}}}
+2024-08-22 01:08:46 [error]: Connection error: connection timed out
+2024-08-22 01:08:46 [info]: Peer disconnected.
+2024-08-22 01:08:54 [info]: Auction 4e4977e8c4d66b9e946bfb38b4a14caf persisted locally.
+2024-08-22 01:08:55 [info]: New peer connected.
+2024-08-22 01:08:55 [error]: Connection error: Duplicate connection
+2024-08-22 01:08:55 [info]: Peer disconnected.
+2024-08-22 01:08:55 [info]: New peer connected.
+2024-08-22 01:09:11 [info]: Attempting to place bid. Auction status: open
+2024-08-22 01:09:11 [info]: Bid of 23 placed on auction 4e4977e8c4d66b9e946bfb38b4a14caf
+2024-08-22 01:09:11 [info]: Broadcasting event "bidPlaced" to peers.
+2024-08-22 01:09:22 [error]: Connection error: connection timed out
+2024-08-22 01:09:22 [info]: Peer disconnected.
+2024-08-22 01:09:29 [info]: Received bid placed event: {"auctionId":"4e4977e8c4d66b9e946bfb38b4a14caf","bid":{"bidder":"1580bbe7d51e687cb9b68955fa38bd4ba5e36993a302113240a6297522497af9","amount":23}}
+2024-08-22 01:11:17 [error]: Connection error: connection timed out
+2024-08-22 01:11:17 [info]: Peer disconnected.
+2024-08-22 01:12:44 [info]: Auction 44df81f003f8fd8ae42d7d8d2fad6eb5 opened for item: red
+2024-08-22 01:12:44 [info]: Broadcasting event "auctionOpened" to peers.
+2024-08-22 01:15:16 [info]: New peer connected.
+2024-08-22 01:15:16 [info]: New peer connected.
+2024-08-22 01:17:35 [info]: Auction a12fbfc0c79ead62dcf4fa9fa228c6f9 opened for item: hello
+2024-08-22 01:17:35 [info]: Broadcasting event "auctionOpened" to peers.
+2024-08-22 01:17:35 [info]: Received auction opened event: {"auctionId":"a12fbfc0c79ead62dcf4fa9fa228c6f9","details":{"seq":3,"key":"auction-a12fbfc0c79ead62dcf4fa9fa228c6f9","value":{"auctionId":"a12fbfc0c79ead62dcf4fa9fa228c6f9","item":"hello","bids":[],"status":"open","creator":"1580bbe7d51e687cb9b68955fa38bd4ba5e36993a302113240a6297522497af9","vectorClock":{"1580bbe7d51e687cb9b68955fa38bd4ba5e36993a302113240a6297522497af9":1724269655593}}}}
+2024-08-22 01:17:43 [info]: Auction a12fbfc0c79ead62dcf4fa9fa228c6f9 persisted locally.
+2024-08-22 01:17:59 [info]: Attempting to place bid. Auction status: open
+2024-08-22 01:17:59 [info]: Bid of 34 placed on auction a12fbfc0c79ead62dcf4fa9fa228c6f9
+2024-08-22 01:17:59 [info]: Broadcasting event "bidPlaced" to peers.
+2024-08-22 01:18:01 [info]: Received bid placed event: {"auctionId":"a12fbfc0c79ead62dcf4fa9fa228c6f9","bid":{"bidder":"1580bbe7d51e687cb9b68955fa38bd4ba5e36993a302113240a6297522497af9","amount":34}}
+2024-08-22 01:18:24 [info]: Listing all auctions.
+2024-08-22 01:19:03 [info]: Listing all auctions.
+2024-08-22 01:19:05 [error]: Connection error: connection timed out
+2024-08-22 01:19:05 [info]: Peer disconnected.
+2024-08-22 01:22:09 [info]: Auction database initialized.
+2024-08-22 01:22:09 [info]: Node initialized with public key: 56e8dc4fccc4288dc96d16753efc5f2d497a1b8aee328c1258054b583e20654a
+2024-08-22 01:22:12 [info]: Auction database initialized.
+2024-08-22 01:22:12 [info]: Node initialized with public key: 3774731b4d2b911ea3aab775fda12cbcec326e755f738fdef7af51135efc0002
+2024-08-22 01:22:14 [info]: New peer connected.
+2024-08-22 01:22:14 [info]: New peer connected.
+2024-08-22 01:22:20 [info]: Listing all auctions.
+2024-08-22 01:22:23 [info]: Listing all auctions.
+2024-08-22 01:22:30 [info]: Auction 43490e27abd7040123b3d172e25d7e2c opened for item: hat
+2024-08-22 01:22:30 [info]: Broadcasting event "auctionOpened" to peers.
+2024-08-22 01:22:30 [info]: Received auction opened event: {"auctionId":"43490e27abd7040123b3d172e25d7e2c","details":{"seq":1,"key":"auction-43490e27abd7040123b3d172e25d7e2c","value":{"auctionId":"43490e27abd7040123b3d172e25d7e2c","item":"hat","bids":[],"status":"open","creator":"56e8dc4fccc4288dc96d16753efc5f2d497a1b8aee328c1258054b583e20654a","vectorClock":{"56e8dc4fccc4288dc96d16753efc5f2d497a1b8aee328c1258054b583e20654a":1724269950190}}}}
+2024-08-22 01:22:33 [info]: Auction 43490e27abd7040123b3d172e25d7e2c persisted locally.
+2024-08-22 01:22:39 [info]: Listing all auctions.
+2024-08-22 01:22:43 [info]: Listing all auctions.
+2024-08-22 01:22:57 [info]: Attempting to place bid. Auction status: open
+2024-08-22 01:22:57 [info]: Bid of 34 placed on auction 43490e27abd7040123b3d172e25d7e2c
+2024-08-22 01:22:57 [info]: Broadcasting event "bidPlaced" to peers.
+2024-08-22 01:23:04 [info]: Received bid placed event: {"auctionId":"43490e27abd7040123b3d172e25d7e2c","bid":{"bidder":"56e8dc4fccc4288dc96d16753efc5f2d497a1b8aee328c1258054b583e20654a","amount":34}}
+2024-08-22 01:23:08 [error]: Connection error: connection timed out
+2024-08-22 01:23:08 [info]: Peer disconnected.
+2024-08-22 01:23:22 [error]: Connection error: connection timed out
+2024-08-22 01:23:22 [info]: Peer disconnected.
+2024-08-22 01:23:25 [info]: New peer connected.
+2024-08-22 01:23:25 [info]: New peer connected.
+2024-08-22 01:23:34 [info]: Listing all auctions.
+2024-08-22 01:23:40 [info]: Listing all auctions.
+2024-08-22 01:24:01 [error]: Connection error: connection timed out
+2024-08-22 01:24:01 [info]: Peer disconnected.
+2024-08-22 01:25:03 [info]: Auction database initialized.
+2024-08-22 01:25:03 [info]: Node initialized with public key: a65acc2cc2342c7041b8a53f7bf57ea00d8bc3b9163b7902d0f1e2a2da83a30f
+2024-08-22 01:25:07 [info]: Auction database initialized.
+2024-08-22 01:25:07 [info]: Node initialized with public key: ba2151d7b124359d00c369bac29c025fdb9248fb94cfe8e2988bc7c24ad1e55a
+2024-08-22 01:25:09 [info]: New peer connected.
+2024-08-22 01:25:09 [info]: New peer connected.
+2024-08-22 01:25:10 [info]: Auction f512c5f3b2e0b091310e38bd4dc3dc2e opened for item: hat
+2024-08-22 01:25:10 [info]: Broadcasting event "auctionOpened" to peers.
+2024-08-22 01:25:10 [info]: Received auction opened event: {"auctionId":"f512c5f3b2e0b091310e38bd4dc3dc2e","details":{"seq":1,"key":"auction-f512c5f3b2e0b091310e38bd4dc3dc2e","value":{"auctionId":"f512c5f3b2e0b091310e38bd4dc3dc2e","item":"hat","bids":[],"status":"open","creator":"ba2151d7b124359d00c369bac29c025fdb9248fb94cfe8e2988bc7c24ad1e55a","vectorClock":{"ba2151d7b124359d00c369bac29c025fdb9248fb94cfe8e2988bc7c24ad1e55a":1724270110863}}}}
+2024-08-22 01:25:10 [info]: Auction f512c5f3b2e0b091310e38bd4dc3dc2e persisted locally.
+2024-08-22 01:25:24 [info]: Attempting to place bid. Auction status: open
+2024-08-22 01:25:24 [info]: Bid of 45 placed on auction f512c5f3b2e0b091310e38bd4dc3dc2e
+2024-08-22 01:25:24 [info]: Broadcasting event "bidPlaced" to peers.
+2024-08-22 01:25:24 [info]: Received bid placed event: {"auctionId":"f512c5f3b2e0b091310e38bd4dc3dc2e","bid":{"bidder":"a65acc2cc2342c7041b8a53f7bf57ea00d8bc3b9163b7902d0f1e2a2da83a30f","amount":45}}
+2024-08-22 01:25:31 [info]: Auction f512c5f3b2e0b091310e38bd4dc3dc2e closed
+2024-08-22 01:25:31 [info]: Broadcasting event "auctionClosed" to peers.
+2024-08-22 01:25:31 [info]: Received auction closed event: {"auctionId":"f512c5f3b2e0b091310e38bd4dc3dc2e","item":"hat","bids":[],"status":"closed","creator":"ba2151d7b124359d00c369bac29c025fdb9248fb94cfe8e2988bc7c24ad1e55a","vectorClock":{"ba2151d7b124359d00c369bac29c025fdb9248fb94cfe8e2988bc7c24ad1e55a":1724270131213}}
+2024-08-22 01:37:56 [info]: Auction database initialized.
+2024-08-22 01:37:56 [info]: Node initialized with public key: 9562b5472b37f37e7939c7fafd37e7e84768b0780ff4b12fff8dea25564b82ea
+2024-08-22 01:38:00 [info]: Auction database initialized.
+2024-08-22 01:38:00 [info]: Node initialized with public key: c0c708a5eb949bb1468ad0ffa36d18a30b2ed79b64ea0b56310aaabcf43a4319
+2024-08-22 01:38:13 [info]: New peer connected.
+2024-08-22 01:38:13 [info]: New peer connected.
+2024-08-22 01:38:15 [info]: Auction d9fe11b158c8756178cb302713ab899a opened for item: radish with opening price: undefined
+2024-08-22 01:38:15 [info]: Broadcasting event "auctionOpened" to peers.
+2024-08-22 01:38:15 [info]: Received auction opened event: {"auctionId":"d9fe11b158c8756178cb302713ab899a","details":{"seq":1,"key":"auction-d9fe11b158c8756178cb302713ab899a","value":{"auctionId":"d9fe11b158c8756178cb302713ab899a","item":"radish","bids":[],"status":"open","creator":"9562b5472b37f37e7939c7fafd37e7e84768b0780ff4b12fff8dea25564b82ea","vectorClock":{"9562b5472b37f37e7939c7fafd37e7e84768b0780ff4b12fff8dea25564b82ea":1724270895316}}}}
+2024-08-22 01:38:15 [info]: Auction d9fe11b158c8756178cb302713ab899a persisted locally.
+2024-08-22 01:38:20 [info]: Listing all auctions.
+2024-08-22 01:38:36 [info]: Listing all auctions.
+2024-08-22 01:38:59 [info]: Attempting to place bid. Auction status: open
+2024-08-22 01:38:59 [info]: Bid of 34 placed on auction d9fe11b158c8756178cb302713ab899a
+2024-08-22 01:38:59 [info]: Broadcasting event "bidPlaced" to peers.
+2024-08-22 01:38:59 [info]: Received bid placed event: {"auctionId":"d9fe11b158c8756178cb302713ab899a","bid":{"bidder":"c0c708a5eb949bb1468ad0ffa36d18a30b2ed79b64ea0b56310aaabcf43a4319","amount":34}}
+2024-08-22 01:42:58 [info]: Auction database initialized.
+2024-08-22 01:42:58 [info]: Node initialized with public key: 1a9173af476d394168f9ec4dd7afe587c43998cfbd0e568d014273a44c6301e8
+2024-08-22 01:43:04 [info]: Auction database initialized.
+2024-08-22 01:43:04 [info]: Node initialized with public key: 1b811a08104d45460a3a60a8d52f08d1a1f55b6cbaa05a45bcc3b7d221c9045c
+2024-08-22 01:43:06 [info]: New peer connected.
+2024-08-22 01:43:06 [info]: New peer connected.
+2024-08-22 01:43:11 [info]: Auction cdc7c2bf740c82387c1b66c4259058c5 opened for item: tree with opening price: undefined
+2024-08-22 01:43:11 [info]: Broadcasting event "auctionOpened" to peers.
+2024-08-22 01:43:11 [info]: Received auction opened event: {"auctionId":"cdc7c2bf740c82387c1b66c4259058c5","details":{"seq":1,"key":"auction-cdc7c2bf740c82387c1b66c4259058c5","value":{"auctionId":"cdc7c2bf740c82387c1b66c4259058c5","item":"tree","bids":[],"status":"open","creator":"1b811a08104d45460a3a60a8d52f08d1a1f55b6cbaa05a45bcc3b7d221c9045c","vectorClock":{"1b811a08104d45460a3a60a8d52f08d1a1f55b6cbaa05a45bcc3b7d221c9045c":1724271191004}}}}
+2024-08-22 01:43:11 [info]: Auction cdc7c2bf740c82387c1b66c4259058c5 persisted locally.
+2024-08-22 01:43:18 [info]: Listing all auctions.
+2024-08-22 01:43:47 [error]: Connection error: connection timed out
+2024-08-22 01:43:47 [info]: Peer disconnected.
+2024-08-22 01:45:09 [info]: Attempting to place bid. Auction status: open
+2024-08-22 01:45:09 [info]: Bid of 34 placed on auction cdc7c2bf740c82387c1b66c4259058c5
+2024-08-22 01:45:09 [info]: Broadcasting event "bidPlaced" to peers.
+2024-08-22 01:45:41 [info]: Auction database initialized.
+2024-08-22 01:45:41 [info]: Node initialized with public key: 912b61c29ae0a2a26de1593c821222ab5071c3627f303b5f9ab728a7bdc536ff
+2024-08-22 01:45:43 [info]: Auction database initialized.
+2024-08-22 01:45:43 [info]: Node initialized with public key: 28997e623b7c9d9ccfd5fee7fdba0771e34d8add6b26aa30456db9f170b2e602
+2024-08-22 01:45:46 [info]: New peer connected.
+2024-08-22 01:45:46 [info]: New peer connected.
+2024-08-22 01:45:55 [info]: Auction 2d516aa5a683e53dc1864be0a7605cae opened for item: bat with opening price: 45
+2024-08-22 01:45:55 [info]: Broadcasting event "auctionOpened" to peers.
+2024-08-22 01:45:55 [info]: Received auction opened event: {"auctionId":"2d516aa5a683e53dc1864be0a7605cae","details":{"seq":1,"key":"auction-2d516aa5a683e53dc1864be0a7605cae","value":{"auctionId":"2d516aa5a683e53dc1864be0a7605cae","item":"bat","bids":[],"status":"open","creator":"28997e623b7c9d9ccfd5fee7fdba0771e34d8add6b26aa30456db9f170b2e602","openingPrice":45,"vectorClock":{"28997e623b7c9d9ccfd5fee7fdba0771e34d8add6b26aa30456db9f170b2e602":1724271355622}}}}
+2024-08-22 01:45:55 [info]: Auction 2d516aa5a683e53dc1864be0a7605cae persisted locally.
+2024-08-22 01:45:58 [info]: Listing all auctions.
+2024-08-22 01:46:16 [info]: Attempting to place bid. Auction status: open
+2024-08-22 01:46:32 [info]: Attempting to place bid. Auction status: open
+2024-08-22 01:46:33 [info]: Bid of 46 placed on auction 2d516aa5a683e53dc1864be0a7605cae
+2024-08-22 01:46:33 [info]: Broadcasting event "bidPlaced" to peers.
+2024-08-22 01:46:33 [info]: Received bid placed event: {"auctionId":"2d516aa5a683e53dc1864be0a7605cae","bid":{"bidder":"912b61c29ae0a2a26de1593c821222ab5071c3627f303b5f9ab728a7bdc536ff","amount":46}}
+2024-08-22 01:47:01 [error]: Connection error: connection timed out
+2024-08-22 01:47:01 [info]: Peer disconnected.
+2024-08-22 01:52:42 [info]: Auction database initialized.
+2024-08-22 01:52:42 [info]: Node initialized with public key: e63fc798fd89ae95fe7a933d8d16540dc5bb9bfd56cff1d3276dccbec9aacd7c
+2024-08-22 01:52:45 [info]: Auction database initialized.
+2024-08-22 01:52:45 [info]: Node initialized with public key: 2150c6900f0a80796ce46047fcc288bf1b75bcb3967395339a01963d945ca1d3
+2024-08-22 01:52:57 [info]: Auction 1bfb88f40941cdc4584f067941284766 opened for item: car with opening price: 45
+2024-08-22 01:52:57 [info]: Broadcasting event "auctionOpened" to peers.
+2024-08-22 01:52:58 [info]: New peer connected.
+2024-08-22 01:52:58 [info]: New peer connected.
+2024-08-22 01:53:04 [info]: Listing all auctions.
+2024-08-22 01:53:11 [info]: Listing all auctions.
+2024-08-22 01:53:22 [info]: Auction database initialized.
+2024-08-22 01:53:22 [info]: Node initialized with public key: 5cc3f01d75e43eaffedeee0ff5802dd7959dea050a1ca918dea12b3ad405dc48
+2024-08-22 01:53:24 [info]: New peer connected.
+2024-08-22 01:53:24 [info]: New peer connected.
+2024-08-22 01:53:30 [info]: Auction database initialized.
+2024-08-22 01:53:30 [info]: Node initialized with public key: e4ec726248d4bbae5686c2af0e94f1c3ab804b447c757ce71df4c4c1a8707e4f
+2024-08-22 01:53:40 [error]: Connection error: connection timed out
+2024-08-22 01:53:40 [info]: Peer disconnected.
+2024-08-22 01:53:42 [info]: New peer connected.
+2024-08-22 01:53:42 [info]: New peer connected.
+2024-08-22 01:53:49 [info]: Auction a56d0fb59cf3fe59fff48c354d104704 opened for item: car with opening price: 45
+2024-08-22 01:53:49 [info]: Broadcasting event "auctionOpened" to peers.
+2024-08-22 01:53:49 [info]: Received auction opened event: {"auctionId":"a56d0fb59cf3fe59fff48c354d104704","details":{"seq":1,"key":"auction-a56d0fb59cf3fe59fff48c354d104704","value":{"auctionId":"a56d0fb59cf3fe59fff48c354d104704","item":"car","bids":[],"status":"open","creator":"e4ec726248d4bbae5686c2af0e94f1c3ab804b447c757ce71df4c4c1a8707e4f","openingPrice":45,"vectorClock":{"e4ec726248d4bbae5686c2af0e94f1c3ab804b447c757ce71df4c4c1a8707e4f":1724271829205}}}}
+2024-08-22 01:53:49 [info]: Auction a56d0fb59cf3fe59fff48c354d104704 persisted locally.
+2024-08-22 01:53:51 [info]: Listing all auctions.
+2024-08-22 01:53:54 [info]: Listing all auctions.
+2024-08-22 01:54:13 [info]: Attempting to place bid. Auction status: open
+2024-08-22 01:54:23 [info]: Attempting to place bid. Auction status: open
+2024-08-22 01:54:23 [info]: Bid of 47 placed on auction a56d0fb59cf3fe59fff48c354d104704
+2024-08-22 01:54:23 [info]: Broadcasting event "bidPlaced" to peers.
+2024-08-22 01:54:23 [info]: Received bid placed event: {"auctionId":"a56d0fb59cf3fe59fff48c354d104704","bid":{"bidder":"5cc3f01d75e43eaffedeee0ff5802dd7959dea050a1ca918dea12b3ad405dc48","amount":47}}
+2024-08-22 01:54:37 [info]: Auction a56d0fb59cf3fe59fff48c354d104704 closed
+2024-08-22 01:54:37 [info]: Broadcasting event "auctionClosed" to peers.
+2024-08-22 01:54:41 [info]: Received auction closed event: {"auctionId":"a56d0fb59cf3fe59fff48c354d104704","item":"car","bids":[],"status":"closed","creator":"e4ec726248d4bbae5686c2af0e94f1c3ab804b447c757ce71df4c4c1a8707e4f","openingPrice":45,"vectorClock":{"e4ec726248d4bbae5686c2af0e94f1c3ab804b447c757ce71df4c4c1a8707e4f":1724271877248}}
