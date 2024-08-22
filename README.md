@@ -33,14 +33,18 @@ Ensure you have the following installed on your system:
 ## Running the Application
 The application is designed to be run in multiple terminal tabs, where each tab represents a different node in the P2P network.
 
-1. **Start the first node**:
+1. **Start the hyperdht**:
+   ```bash
+   hyperdht --bootstrap --host 127.0.0.1 --port 30001 
+
+2. **Start the first node**:
 
    ```bash
    npm start
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Follow the prompts to open an auction, place a bid, close an auction, or list all auctions.
 
-2. **Start additional nodes**:<br>
+3. **Start additional nodes**:<br>
 Open a new terminal tab or window and repeat the npm start command to start additional nodes. These nodes will automatically connect to each other.
 
 ## Usage
